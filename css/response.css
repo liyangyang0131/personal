@@ -189,13 +189,13 @@ text-r{
 *[text=center] {
   text-align: center;
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 730px) {
   .container {
-    width: 580px;
+    width: 630px;
     margin: 0 auto;
   }
   .container .sence > a {
-    width: 50%;
+    width: 46%;
     height: 36%;
   }
   .container-fluid > .parent {
@@ -647,14 +647,14 @@ text-r{
   .response(s);
 }
 */
-@media screen and (min-width: 680px) and (max-width: 1080px) {
+@media screen and (min-width: 730px) and (max-width: 1200px) {
   .container {
-    width: 580px;
+    width: 630px;
     margin: 0 auto;
-    width: 780px;
+    width: 730px;
   }
   .container .sence > a {
-    width: 40%;
+    width: 43%;
     height: 39%;
   }
   .container-fluid > .parent {
@@ -1092,11 +1092,11 @@ text-r{
     transition: transform ease 1s;
   }
 }
-@media screen and (min-width: 1080px) {
+@media screen and (min-width: 1200px) {
   .container {
-    width: 580px;
+    width: 630px;
     margin: 0 auto;
-    width: 1080px;
+    width: 1200px;
   }
   .container .sence > a {
     width: 32%;

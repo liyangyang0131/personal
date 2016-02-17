@@ -1,6 +1,6 @@
 $(function(){
     $(window).resize(function(){
-        if($(window).width()<800){
+        if($(window).width()<730){
             $(".header").hide();
             $(".headerS").show();
         }else{
