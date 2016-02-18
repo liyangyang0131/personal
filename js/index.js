@@ -208,4 +208,12 @@ $(function(){
     })
 
 
+    //app
+    $(".app").hover(function(){
+        $(".newApp").slideDown();
+    },function(){
+        $(".newApp").slideUp();
+    })
+
+
 })
