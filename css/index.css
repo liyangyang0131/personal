@@ -294,11 +294,11 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
 }
 .line1{
     top:0px;
-    height: 84px;
+    height: 54px;
 }
 .line2{
     bottom:0;
-    height:84px;
+    height:64px;
 }
 .cover{
     /*width:60%;*/
@@ -307,7 +307,7 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
     position:absolute;
     /*right:30%;*/
     right:-100%;
-    top:81px;
+    top:55px;
     color:#fff;
     transition:all 1s ease;
 }
@@ -531,6 +531,7 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
     top:20px;
     border-radius: 50%;
     background:url(../images/delete3.png);
+    cursor: pointer;
 }
 
 .app{
@@ -542,7 +543,7 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
     line-height:200px;
     font-size:22px;
     position:relative;
-    background:url(../images/app2.png) no-repeat;
+    background:url(../images/newApp.png) no-repeat;
     background-size:cover;
     cursor: pointer;
 }
