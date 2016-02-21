@@ -294,11 +294,11 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
 }
 .line1{
     top:0px;
-    height: 54px;
+    height:85px;
 }
 .line2{
     bottom:0;
-    height:64px;
+    height:80px;
 }
 .cover{
     /*width:60%;*/
@@ -307,7 +307,7 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
     position:absolute;
     /*right:30%;*/
     right:-100%;
-    top:55px;
+    top:90px;
     color:#fff;
     transition:all 1s ease;
 }
@@ -599,7 +599,7 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
     width:250px;
     height:250px;
     margin:10px auto;
-    background:url(../images/my.png) no-repeat;
+    background:url(../images/personal.png) no-repeat;
     background-size:contain;
 }
 .ewm span:nth-child(2){

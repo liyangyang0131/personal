@@ -210,8 +210,10 @@ $(function(){
 
     //app
     $(".app").hover(function(){
+        $(".newApp").finish();
         $(".newApp").slideDown();
     },function(){
+        $(".newApp").finish();
         $(".newApp").slideUp();
     })
 
