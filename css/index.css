@@ -610,8 +610,8 @@ h1,h2,h3,h4,h5,h6,ul,li,p,hr{
 
 .comunication{
     margin:100px auto;
-    width:360px;
-    height:160px;
+/*     width:360px;
+    height:160px; */
 }
 .comunication li{
     color:#fff;
